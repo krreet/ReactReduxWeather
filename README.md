@@ -1,2 +1,0 @@
-# ReactReduxWeather
-Created with CodeSandbox
