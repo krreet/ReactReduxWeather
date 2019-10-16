@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ReactReduxWeather/static/css/main.1bce351e.chunk.css",
+    "main.js": "/ReactReduxWeather/static/js/main.585cb79c.chunk.js",
+    "main.js.map": "/ReactReduxWeather/static/js/main.585cb79c.chunk.js.map",
+    "runtime-main.js": "/ReactReduxWeather/static/js/runtime-main.00e7b1a5.js",
+    "runtime-main.js.map": "/ReactReduxWeather/static/js/runtime-main.00e7b1a5.js.map",
+    "static/js/2.4817b5e5.chunk.js": "/ReactReduxWeather/static/js/2.4817b5e5.chunk.js",
+    "static/js/2.4817b5e5.chunk.js.map": "/ReactReduxWeather/static/js/2.4817b5e5.chunk.js.map",
+    "index.html": "/ReactReduxWeather/index.html",
+    "precache-manifest.b691744f4ecb375b41b7d55ed4107609.js": "/ReactReduxWeather/precache-manifest.b691744f4ecb375b41b7d55ed4107609.js",
+    "service-worker.js": "/ReactReduxWeather/service-worker.js",
+    "static/css/main.1bce351e.chunk.css.map": "/ReactReduxWeather/static/css/main.1bce351e.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00e7b1a5.js",
+    "static/js/2.4817b5e5.chunk.js",
+    "static/css/main.1bce351e.chunk.css",
+    "static/js/main.585cb79c.chunk.js"
+  ]
+}
