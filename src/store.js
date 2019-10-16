@@ -17,8 +17,6 @@ function reducer(state = initialState, action) {
     case GET_WEATHER_BEGIN:
       return {
         ...state,
-        locations: null,
-        locationsError: null,
         weatherIsLoading: true,
         weatherError: null
       };
