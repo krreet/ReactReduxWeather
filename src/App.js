@@ -2,11 +2,6 @@ import React from "react";
 import MyLocation from "./MyLocation";
 import Forecast from "./Forecast";
 import * as Constants from "./Constants";
-/*
- * Based on lessons from "Pure Redux" course by Dave Ceddia
- * https://daveceddia.com/
- */
-
 function App() {
   return (
     <div className="App">

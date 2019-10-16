@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App should render correctly in "debug" mode 1`] = `
+<div
+  className="App"
+>
+  <h1>
+    Live UK Weather
+  </h1>
+  <p>
+    Data provided by
+     
+    <a
+      href="https://openweathermap.org/"
+      rel="noopener noreferrer"
+      target="_blank"
+    >
+      OpenWeather
+    </a>
+  </p>
+  <MyLocation
+    locations={
+      Array [
+        Object {
+          "name": "London",
+          "value": "London,GB",
+        },
+        Object {
+          "name": "Birmingham",
+          "value": "Birmingham,GB",
+        },
+        Object {
+          "name": "Manchester",
+          "value": "Manchester,GB",
+        },
+      ]
+    }
+  />
+  <Connect(Forecast) />
+</div>
+`;
